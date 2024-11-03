@@ -16,4 +16,4 @@ Through this analysis, I will be looking at some key questions, such as:
 
 ## Loading and cleaning data;
 - MBA<- read_csv("https://raw.githubusercontent.com/tafuti6/tonyafuti/refs/heads/main/MBA.csv")
-glimpse(MBA)
+- glimpse(MBA)
