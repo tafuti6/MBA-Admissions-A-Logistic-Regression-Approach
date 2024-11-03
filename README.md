@@ -4,5 +4,5 @@ Deciding to pursue an MBA is a big step for many aspiring business leaders. In t
 Through this analysis, I will be looking at some key questions, such as:
 •	How do admission rates differ among various demographic groups?
 •	What impact do academic metrics like GPA and GMAT scores have on whether someone gets admitted?
-•	How does work experience play a role in the decision-making process?
-•	Identifiable relationships between the variables in the dataset. 
+•	Does work experience play a role in the decision-making process?
+•	What are some identifiable relationships between the variables in the dataset? 
