@@ -15,7 +15,7 @@ Through this analysis, I will be looking at some key questions, such as:
 - library(pROC); Used for visualizing and analyzing Receiver Operating Characteristic (ROC) curves, including calculating the area under the curve (AUC).
 
 ## Loading and cleaning data;
-- MBA<- read_csv([MBA Data](https://raw.githubusercontent.com/tafuti6/tonyafuti/refs/heads/main/MBA.csv))
+- MBA<- read_csv ([MBA Data](https://raw.githubusercontent.com/tafuti6/tonyafuti/refs/heads/main/MBA.csv))
 - glimpse (MBA)
 
 
