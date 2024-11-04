@@ -288,7 +288,7 @@ Intepretation;
 
 If the p-value were below 0.05, it would suggest a statistically significant association between gender and race. However, since the p-value is so high, there’s no statistically significant relationship between gender and race in the data. In other words, gender and race appear to be independent of each other.
 
-### Demographic influence on admission decision 
+### Demographic influence on admission decision; 
 ```
 # Convert admission to a binary variable if necessary
 MBA_1$admission_binary <- ifelse(MBA_1$admission == "Admit", 1, 0)  # Admitted = 1, Not Admitted = 0
