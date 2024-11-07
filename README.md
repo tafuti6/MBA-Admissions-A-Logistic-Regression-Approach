@@ -357,7 +357,7 @@ The area under the curve (AUC) of 0.6674 indicates that the model has a moderate
 ## Values obtained from analysis
 ![image](https://github.com/user-attachments/assets/b60ced14-e374-401a-b971-f0d82d27aa3c)
 
-## Key insights from analysis
+## What does the analysis tell us?
 Based on the comprehensive analysis of the MBA admissions dataset, we can draw several key conclusions regarding the influence of demographic factors, academic performance indicators, and other variables on admission decisions.
 1.	Demographic Factors: The analysis indicates that demographic characteristics such as gender and race do not exhibit significant effects on admission outcomes in the logistic regression models, suggesting that admissions decisions are primarily influenced by academic performance metrics rather than demographic attributes.
 2.	Academic Performance Indicators: While both GPA and GMAT scores are positively associated with admission likelihood, GMAT scores demonstrate a significant impact, whereas GPA does not show statistical significance. This suggests that standardized testing may play a more crucial role in the evaluation process, potentially indicating a preference for quantifiable metrics in assessing candidate suitability.
@@ -372,7 +372,7 @@ As I reflect on my journey analyzing the MBA admissions dataset, I am struck by 
 
 One of the fun discoveries was how the inclusion of work experience added another layer to the analysis. While it did not show strong statistical significance, I appreciated how it reflected the multifaceted nature of an applicant's profile. Each variable felt like a piece of a puzzle that, when combined, could give us a clearer picture of what makes an applicant stand out.
 
-However, the journey was not without its challenges. I grappled with a significant amount of missing data, which made it tough to draw definitive conclusions. It was frustrating at times to see how missing values could skew the results, or even encountering errors in the codes, reminding me of the importance of comprehensive data collection. There were moments when I felt stuck, wondering if I was on the right path. Yet, those moments of doubt pushed me to dig deeper and explore alternative approaches to the analysis.
+However, the journey was not without its challenges. I grappled with a significant amount of missing data, which made it tough to draw definitive conclusions. It was frustrating at times to see how missing values could even lead to errors in the codes, and this reminds me of the importance of comprehensive data collection. This experience challenged me to explore alternative approaches to the analysis.
 
 As I wrapped up my exploration of this dataset, I felt a sense of accomplishment and a renewed appreciation for the complexity of admission decisions. This experience taught me that while numbers and statistics tell part of the story, there’s a human element behind every application that we should not overlook. I am excited to carry these insights forward and continue exploring the intricacies of data analysis in my future work.
 Thank you for being part of this journey with me!
